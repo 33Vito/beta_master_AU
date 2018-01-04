@@ -2,4 +2,6 @@
 
 Back up of beta master AU shinyapp. 
 
-This shinyapp is developed to facilitate the portfolio analysis for regulated utility firms as a benchmark for the regulatory policy settings in AU. 
+This shinyapp is developed to estimate the asset and equity beta based for regulated utility firms. 
+
+App URL: https://tony-yanjun.shinyapps.io/beta_master_AU/
